@@ -1,7 +1,8 @@
 <?php
 
-echo "This is a simple web application";
-echo "<br>";
-echo "This is a simple web application";
-echo "This is a simple web application";
+echo "<h3>Simple PHP App on K8s</h3>";
+
+
+
+?>
 
